@@ -1,0 +1,45 @@
+.icon_eye{
+	display: block;
+	width: 24px;
+  	height: 13px;
+  	background: url('../assets/img/eye.svg');
+  	background-size: cover;
+  	background-position: center;
+}
+
+.icon_pen{
+	display: block;
+	width: 21px;
+  	height: 21px;
+  	background: url('../assets/img/pen.svg');
+  	background-size: cover;
+  	background-position: center;
+}
+
+.icon_trash{
+	display: block;
+	width: 19px;
+  	height: 21px;
+  	background: url('../assets/img/trash.svg');
+  	background-size: cover;
+  	background-position: center;
+}
+
+.icon_star{
+	display: block;
+	width: 12px;
+  	height: 11px;
+  	background: url('../assets/img/star.svg');
+  	background-size: cover;
+  	background-position: center;
+}
+
+.icon_mark{
+	display: block;
+	width: 12px;
+  	height: 8px;
+  	margin-right: 10px;
+  	background: url('../assets/img/mark.svg');
+  	background-size: cover;
+  	background-position: center;
+}

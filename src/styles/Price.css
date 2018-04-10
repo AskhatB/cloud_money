@@ -1,0 +1,9 @@
+.price{
+	margin-top: 8px;
+}
+
+.price-old{
+	margin-top: 5px;
+	text-decoration: line-through;
+	color: #202020;
+}

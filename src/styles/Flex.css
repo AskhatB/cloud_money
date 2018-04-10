@@ -1,0 +1,47 @@
+.fl {
+  display: flex;
+}
+
+.fl-wrap {
+  flex-wrap: wrap;
+}
+
+.fl-sa {
+  justify-content: space-around;
+}
+
+.fl-sb {
+  justify-content: space-between;
+}
+
+.fl-fs {
+  justify-content: flex-start;
+}
+
+.fl-c {
+  justify-content: center;
+}
+
+.fl-fe {
+  justify-content: flex-end;
+}
+
+.fl-aic {
+  align-items: center;
+}
+
+.fl-aife {
+  align-items: flex-end;
+}
+
+.fl-aifs {
+  align-items: flex-start;
+}
+
+.fl-dc {
+  flex-direction: column;
+}
+
+.fl-frw {
+  flex-flow: row wrap;
+}

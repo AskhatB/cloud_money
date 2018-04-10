@@ -3,9 +3,9 @@ import Main from './containers/Main'
 import './styles/index.css'
 
 class App extends Component {
-  render() {
+  render(){
     return (
-      <div>
+      <div className="ffMontserrat">
         <Main />
       </div>
     );

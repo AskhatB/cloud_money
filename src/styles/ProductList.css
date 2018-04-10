@@ -4,3 +4,38 @@
 	margin: 15px auto;
 	border: solid 1px #d3c8f2;
 }
+
+.product-list:hover{
+	border: solid 1px #fff;
+	box-shadow: 0 2px 5px 0 rgba(161, 161, 161, 0.3);
+}
+
+.product-list__preview-img{
+	width: 100%;
+}
+
+.product-list_general-info_name{
+	margin-top: 16px;
+}
+
+.product-list_general-info_code{
+	margin-top: 4px;
+	color: #b1b1b1;
+}
+
+.product-list_general-info_crumbs{
+	margin-top: 8px;
+}
+
+.product-list_general-info_status{
+	margin-top: 8px;
+}
+
+.product-list__rating{
+	margin-top: 17px;
+	width: 80px;
+}
+
+.product-list__additional-info{
+	margin-right: 19px;
+}
