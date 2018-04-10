@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import ProductList from '../components/ProductList'
 import ServicesList from '../components/ServicesList'
+import cn from 'cn-decorator'
 
+@cn('main')
 class Main extends Component {
 	constructor(props){
 		super(props)
@@ -23,9 +25,9 @@ class Main extends Component {
 			}
 		}
 	}
-	render(){
+	render(cn){
 		return(
-			<div className="main">
+			<div className={cn()}>
 				<ProductList 
 					name={this.state.product.productName} 
 					code={this.state.product.productCode} 

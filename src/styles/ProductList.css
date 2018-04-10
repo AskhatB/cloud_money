@@ -3,6 +3,7 @@
 	height: 130px;
 	margin: 15px auto;
 	border: solid 1px #d3c8f2;
+	display: flex;
 }
 
 .product-list:hover{
